@@ -25,7 +25,16 @@
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
 
+<br>
+
+ <details>
+
+ <summary>Gihub Stats</summary>
+
+ <img align="left" alt="rickcarvlh Github Stats" src="https://github-readme-stats.rickcarvlh.vercel.app/api?username=rickcarvlh&show_icons=true&hide_border">
+ </details>
 
 
- 
+
+
   
